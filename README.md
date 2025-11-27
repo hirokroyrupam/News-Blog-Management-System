@@ -1,2 +1,2 @@
-<img width="1804" height="1060" alt="Untitled diagram-2025-11-27-020633" src="https://github.com/user-attachments/assets/f24395ab-0eb7-4b46-a6e6-d842210fb5c9" />
-<img width="1086" height="1585" alt="Untitled diagram-2025-11-27-020610" src="https://github.com/user-attachments/assets/f3be5606-906d-4948-88a2-34a8c53c02b1" />
+<img width="1086" height="1585" alt="er diagram" src="https://github.com/user-attachments/assets/07d403a5-4bec-4fe0-9c6f-8ddc56460f34" />
+<img width="2189" height="1308" alt="process flow swimlane" src="https://github.com/user-attachments/assets/2ca8f7ef-a199-4fcc-ba70-3ff879e7243d" />
